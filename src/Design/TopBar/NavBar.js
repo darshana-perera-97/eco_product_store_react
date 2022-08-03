@@ -12,7 +12,7 @@ export default function NavBar() {
           <Link to="/store" id="link">
             Store
           </Link>
-          <Link to="/ides" id="link">
+          <Link to="/ideas" id="link">
             Ideas
           </Link>
           <Link to="/about" id="link">
