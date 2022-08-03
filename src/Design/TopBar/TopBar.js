@@ -10,6 +10,7 @@ export default function TopBar() {
         display: "flex",
         justifyContent: "space-between",
         padding: "10px 80px",
+        background: "#c3f8c3",
       }}
     >
       <div style={{ display: "flex" }}>
