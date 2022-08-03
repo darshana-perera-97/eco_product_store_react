@@ -12,3 +12,16 @@
   background: #09a804;
   margin-bottom: -20px;
 }
+
+#icn {
+  color: #09a804;
+  margin-top: 8px;
+  font-size: 30px;
+  padding: 0px 5px;
+}
+
+#icn:hover {
+  color: #023001;
+  background:white;
+  border-radius: 20px;
+}
