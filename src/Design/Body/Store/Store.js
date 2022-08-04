@@ -80,7 +80,18 @@ export default function Store() {
           );
         })}
       </Grid>
-      <button>Load More</button>
+      <div style={{ display: "flex", marginBottom: "25px" }}>
+        <button
+          style={{
+            textAlign: "center",
+            marginLeft: "auto",
+            marginRight: "auto",
+            borderRadius: "20px",
+          }}
+        >
+          Load More Items
+        </button>
+      </div>
     </div>
   );
 }
